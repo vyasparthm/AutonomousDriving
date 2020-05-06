@@ -10,10 +10,6 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-To complete the project, two files will be submitted: a file containing project code and a file containing a brief write up explaining your solution. We have included template files to be used both for the [code](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb) and the [writeup](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md).The code file is called P1.ipynb and the writeup template is writeup_template.md 
-
-To meet specifications in the project, take a look at the requirements in the [project rubric](https://review.udacity.com/#!/rubrics/322/view)
-
 
 Writeup about this project
 ---
@@ -36,7 +32,7 @@ The Shortcomings and improvements ideas are inspired from the work of:
 [Jeff Irion](https://jefflirion.github.io/udacity_car_nanodegree_project01/index.html)
 
 
-My videos: [solidWhiteRight](https://youtu.be/oT6S0T_-TxM) ,[solidYellowLeft](https://www.youtube.com/watch?v=Ogz2svssDq0&feature=youtu.be) and [Challange Video](https://www.youtube.com/watch?v=fxemQHFgNT4&feature=youtu.be)
+My videos: [solidWhiteRight](https://youtu.be/EQkBjCXejfc) ,[solidYellowLeft](https://youtu.be/Zi-lfy7a8tg).
 
 The Project
 ---
@@ -56,3 +52,6 @@ Jupyter is an Ipython notebook where you can run blocks of code and see results 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
 
 **Step 3:** Complete the project and submit both the Ipython notebook and the project writeup
+
+
+For more exciting videos about technology, please do not forget to subscribe to my [YouTube Channel](https://www.youtube.com/channel/UCqxm7CkItJsJk6ME8qn_bAA/featured)
