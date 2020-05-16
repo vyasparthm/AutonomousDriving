@@ -8,13 +8,13 @@
       <p align="center">
            <a href="https://youtu.be/Zi-lfy7a8tg"><img src="./test_videos_output/solidYellowLeft.gif" alt="Overview" width="40%" height="40%"></a>
            <br>P1: Finding Lane Lines Yellow Lane
-           <br><a href="./P1_FindingLaneLines/FindingLaneLines.ipynb" name="p1_code">(code)</a>
+           <br><a href="./FindingLaneLines.ipynb" name="p1_code">(code)</a>
       </p>
     </th>
      <th><p align="center">
            <a href="https://youtu.be/EQkBjCXejfc"><img src="./test_videos_output/solidWhiteRight.gif" alt="Overview" width="40%" height="40%"></a>
            <br>P1: Finding Lane Lines White Lane
-           <br><a href="./P1_FindingLaneLines/FindingLaneLines.ipynb" name="p1_code">(code)</a>
+           <br><a href="./FindingLaneLines.ipynb" name="p1_code">(code)</a>
         </p>
     </th>
  </table>
