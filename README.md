@@ -17,7 +17,7 @@ Hope this Repo helps you! Enjoy!!
   <tr>
     <th>
       <p align="center">
-           <a href="https://youtu.be/Zi-lfy7a8tg"><img src="P1_FindingLaneLines/test_videos_output/solidYellowLeft.gif" alt="Overview" width="60%" height="60%"></a>
+           <a href="https://youtu.be/Zi-lfy7a8tg"><img src="P1_FindingLaneLines/test_videos_output/solidYellowLeft.gif" alt="Overview" width="40%" height="40%"></a>
            <br>P1: Finding Lane Lines
            <br><a href="./P1_FindingLaneLines" name="p1_code">(code)</a>
       </p>
