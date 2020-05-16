@@ -2,7 +2,22 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
-
+<table style="width:100%">
+  <tr>
+    <th>
+      <p align="center">
+           <a href="https://youtu.be/Zi-lfy7a8tg"><img src="P1_FindingLaneLines/test_videos_output/solidYellowLeft.gif" alt="Overview" width="40%" height="40%"></a>
+           <br>P1: Finding Lane Lines Yellow Lane
+           <br><a href="./P1_FindingLaneLines/FindingLaneLines.ipynb" name="p1_code">(code)</a>
+      </p>
+    </th>
+     <th><p align="center">
+           <a href="https://youtu.be/EQkBjCXejfc"><img src="P1_FindingLaneLines/test_videos_output/solidWhiteRight.gif" alt="Overview" width="60%" height="60%"></a>
+           <br>P1: Finding Lane Lines White Lane
+           <br><a href="../P1_FindingLaneLines/FindingLaneLines.ipynb" name="p1_code">(code)</a>
+        </p>
+    </th>
+ </table>
 Overview
 ---
 
